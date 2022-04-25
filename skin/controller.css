@@ -2,7 +2,7 @@
     background-image: url(base.png);
 }
 
-.ds4.disconnected {
+.ds4.white .disconnected {
     background: url(disconnected.png);
 }
 
